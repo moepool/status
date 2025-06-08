@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.moepool.com.ico",
     "slug": "moe-pool-dashboard",
     "status": "up",
-    "uptime": "10.33%",
+    "uptime": "10.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.09%",
-    "uptimeYear": "7.25%",
+    "uptimeMonth": "88.39%",
+    "uptimeYear": "7.53%",
     "time": 266,
-    "timeDay": 366,
-    "timeWeek": 352,
-    "timeMonth": 346,
-    "timeYear": 285,
+    "timeDay": 395,
+    "timeWeek": 363,
+    "timeMonth": 348,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2025-05-29": 24,
       "2025-05-11": 800,
@@ -353,8 +353,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   }
 ]
